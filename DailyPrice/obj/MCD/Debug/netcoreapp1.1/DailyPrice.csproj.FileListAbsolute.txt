@@ -1,0 +1,8 @@
+F:\Working\DailyPrice\bin\MCD\Debug\netcoreapp1.1\DailyPrice.deps.json
+F:\Working\DailyPrice\bin\MCD\Debug\netcoreapp1.1\DailyPrice.runtimeconfig.json
+F:\Working\DailyPrice\bin\MCD\Debug\netcoreapp1.1\DailyPrice.runtimeconfig.dev.json
+F:\Working\DailyPrice\bin\MCD\Debug\netcoreapp1.1\DailyPrice.dll
+F:\Working\DailyPrice\bin\MCD\Debug\netcoreapp1.1\DailyPrice.pdb
+F:\Working\DailyPrice\obj\MCD\Debug\netcoreapp1.1\DailyPrice.AssemblyInfo.cs
+F:\Working\DailyPrice\obj\MCD\Debug\netcoreapp1.1\DailyPrice.dll
+F:\Working\DailyPrice\obj\MCD\Debug\netcoreapp1.1\DailyPrice.pdb
